@@ -48,8 +48,8 @@ This project is a simple weather application developed to display current weathe
 
 ## References
 
-HyperionDev React - React Hooks Task (PDF)
-WeatherAPI Documentation - [WeatherAPI](https://www.weatherapi.com/docs/)
-React Official Documentation - [React](https://react.dev/)
-Bootstrap Official Documentation - [Bootstrap](https://getbootstrap.com/docs/5.3/getting-started/introduction/)
-Build A React JS Weather App - [YouTube Video](https://www.youtube.com/watch?v=UjeXpct3p7M)
+- HyperionDev React - React Hooks Task (PDF)
+- WeatherAPI Documentation - [WeatherAPI](https://www.weatherapi.com/docs/)
+- React Official Documentation - [React](https://react.dev/)
+- Bootstrap Official Documentation - [Bootstrap](https://getbootstrap.com/docs/5.3/getting-started/introduction/)
+- Build A React JS Weather App - [YouTube Video](https://www.youtube.com/watch?v=UjeXpct3p7M)
